@@ -1,0 +1,15 @@
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/tuples
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/tuples.deps.json
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/tuples.runtimeconfig.json
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/tuples.dll
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/ref/tuples.dll
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/bin/Debug/net6.0/tuples.pdb
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.AssemblyInfo.cs
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.dll
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/ref/tuples.dll
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.pdb
+/home/susruth/Documents/Programming/Microsoft Java/Generics/tuples/obj/Debug/net6.0/tuples.genruntimeconfig.cache
